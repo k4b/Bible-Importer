@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Choose">Wybierz tłumaczenie</string>
+    <string name="HomeBtn1">Przerwij</string>
+    <string name="HomeBtn2">Pobierz</string>
+    <string name="app_name">Bib</string>
+</resources>

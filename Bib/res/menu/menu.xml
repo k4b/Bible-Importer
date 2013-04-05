@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuItemBack" android:title="Poprzedni" android:icon="@drawable/back"></item>
+    <item android:id="@+id/menuItemNext" android:title="Następny" android:icon="@drawable/next" />
+    <item android:id="@+id/menuItemSearch" android:title="Wyszukaj" android:icon="@drawable/find"></item>
+    <item android:id="@+id/menuItemCompare" android:title="Porównaj" android:icon="@drawable/compare"></item>
+</menu>

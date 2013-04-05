@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <Spinner android:layout_weight="1" android:id="@+id/bookSpinner" android:layout_height="wrap_content" android:layout_width="fill_parent"></Spinner>
+    <Spinner android:layout_weight="1" android:id="@+id/chapterSpinner" android:layout_height="wrap_content" android:layout_width="fill_parent"></Spinner>
+    <LinearLayout android:id="@+id/linearLayout2" android:layout_height="wrap_content" android:layout_width="fill_parent">
+        <Button android:id="@+id/cancelButton" android:text="Cancel" android:layout_weight="1" android:layout_height="wrap_content" android:layout_width="wrap_content"></Button>
+        <Button android:text="OK" android:id="@+id/OKButton" android:layout_weight="1" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+    </LinearLayout>
+</LinearLayout>

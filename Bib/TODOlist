@@ -1,0 +1,11 @@
+TODOlist
+-obs³uga b³êdów
+-zast¹pienie odwo³¹ñ do BD, odwo³aniami do tablic obiektów BibleBook i BibleTranslation
+-³adny interfejs graficzny
+-pobieranie ka¿dego rozdzia³u w osobnym w¹tku ASyncTask
+-wyszukiwanie fraz
+-zapamiêtywanie ostatniego czytanego rozdzia³u dla ka¿dego t³umaczenia
+-modyfikacje wyœwietlanego tekstu (kolor czcionki i t³a, wielkoœæ czcionki itp.)
+-zak³¹dki
+-angielskie nazwy do angielskich t³umaczeñ
+-mo¿liwoœæ lokalizacji interfejsu
